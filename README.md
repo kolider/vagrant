@@ -1,5 +1,5 @@
 This is simple vagrant configurations. 
-VirtBox_2_VM create a 2 vm on Virtualbox.
+vb_2_vm create 2 VMs on local Virtualbox.
 
 git clone https://github.com/kolider/vagrant
 
